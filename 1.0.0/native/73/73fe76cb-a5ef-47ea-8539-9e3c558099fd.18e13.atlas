@@ -1,0 +1,742 @@
+
+symbols.png
+size: 2048,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_burger_bun_bottom
+  rotate: false
+  xy: 1177, 66
+  size: 128, 48
+  orig: 130, 49
+  offset: 1, 1
+  index: -1
+h_burger_bun_top
+  rotate: 180
+  xy: 512, 94
+  size: 146, 88
+  orig: 146, 88
+  offset: 0, 0
+  index: -1
+h_burger_cheese
+  rotate: false
+  xy: 622, 59
+  size: 157, 54
+  orig: 159, 55
+  offset: 2, 0
+  index: -1
+h_burger_lettuce_1
+  rotate: false
+  xy: 388, 29
+  size: 158, 68
+  orig: 159, 70
+  offset: 0, 1
+  index: -1
+h_burger_lettuce_2
+  rotate: false
+  xy: 766, 21
+  size: 158, 55
+  orig: 158, 56
+  offset: 0, 0
+  index: -1
+h_burger_patty
+  rotate: false
+  xy: 1305, 71
+  size: 135, 50
+  orig: 137, 51
+  offset: 1, 0
+  index: -1
+h_burger_plate
+  rotate: false
+  xy: 1349, 114
+  size: 174, 98
+  orig: 174, 98
+  offset: 0, 0
+  index: -1
+h_burger_sauce
+  rotate: false
+  xy: 787, 65
+  size: 145, 48
+  orig: 146, 49
+  offset: 0, 1
+  index: -1
+h_burger_shadow
+  rotate: true
+  xy: 387, 173
+  size: 191, 159
+  orig: 191, 159
+  offset: 0, 0
+  index: -1
+h_burger_tomato
+  rotate: false
+  xy: 1359, 30
+  size: 124, 43
+  orig: 125, 44
+  offset: 1, 0
+  index: -1
+h_coffee_cup
+  rotate: false
+  xy: 400, 80
+  size: 115, 85
+  orig: 116, 85
+  offset: 0, 0
+  index: -1
+h_coffee_cup_inner
+  rotate: false
+  xy: 238, 47
+  size: 110, 36
+  orig: 111, 39
+  offset: 1, 2
+  index: -1
+h_coffee_cup_rim
+  rotate: false
+  xy: 1622, 59
+  size: 116, 46
+  orig: 116, 46
+  offset: 0, 0
+  index: -1
+h_coffee_handle
+  rotate: false
+  xy: 1273, 17
+  size: 25, 52
+  orig: 25, 52
+  offset: 0, 0
+  index: -1
+h_coffee_liquid
+  rotate: false
+  xy: 547, 34
+  size: 103, 39
+  orig: 105, 40
+  offset: 1, 1
+  index: -1
+h_coffee_plate
+  rotate: false
+  xy: 173, 105
+  size: 135, 73
+  orig: 135, 73
+  offset: 0, 0
+  index: -1
+h_coffee_shadow
+  rotate: true
+  xy: 678, 216
+  size: 148, 120
+  orig: 148, 120
+  offset: 0, 0
+  index: -1
+h_lemonade_glass
+  rotate: true
+  xy: 300, 82
+  size: 96, 103
+  orig: 98, 103
+  offset: 1, 0
+  index: -1
+h_lemonade_glass_inner
+  rotate: false
+  xy: 680, 38
+  size: 91, 20
+  orig: 93, 21
+  offset: 1, 1
+  index: -1
+h_lemonade_glass_rim
+  rotate: false
+  xy: 78, 41
+  size: 97, 25
+  orig: 98, 26
+  offset: 1, 0
+  index: -1
+h_lemonade_ice_1
+  rotate: false
+  xy: 1803, 29
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+h_lemonade_ice_2
+  rotate: false
+  xy: 1484, 30
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+h_lemonade_ice_3
+  rotate: false
+  xy: 125, 154
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+h_lemonade_ice_4
+  rotate: false
+  xy: 489, 154
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+h_lemonade_liquid
+  rotate: 270
+  xy: 1444, 54
+  size: 70, 80
+  orig: 72, 81
+  offset: 1, 0
+  index: -1
+h_lemonade_shadow
+  rotate: false
+  xy: 811, 112
+  size: 80, 85
+  orig: 80, 85
+  offset: 0, 0
+  index: -1
+h_salad_1
+  rotate: false
+  xy: 368, 3
+  size: 72, 59
+  orig: 73, 59
+  offset: 0, 0
+  index: -1
+h_salad_2
+  rotate: false
+  xy: 156, 28
+  size: 73, 90
+  orig: 74, 91
+  offset: 0, 0
+  index: -1
+h_salad_3
+  rotate: false
+  xy: 1289, 102
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+h_salad_4
+  rotate: false
+  xy: 1792, 54
+  size: 124, 45
+  orig: 125, 45
+  offset: 1, 0
+  index: -1
+h_salad_5
+  rotate: false
+  xy: 1367, 27
+  size: 75, 18
+  orig: 76, 20
+  offset: 0, 1
+  index: -1
+h_salad_6
+  rotate: false
+  xy: 1044, 42
+  size: 85, 79
+  orig: 85, 81
+  offset: 0, 1
+  index: -1
+h_salad_7
+  rotate: true
+  xy: 1706, 32
+  size: 60, 91
+  orig: 60, 91
+  offset: 0, 0
+  index: -1
+h_salad_8
+  rotate: false
+  xy: 2, 103
+  size: 122, 71
+  orig: 122, 71
+  offset: 0, 0
+  index: -1
+h_salad_crouton_1
+  rotate: false
+  xy: 38, 87
+  size: 17, 19
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+h_salad_crouton_2
+  rotate: false
+  xy: 1179, 192
+  size: 23, 22
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+h_salad_crouton_3
+  rotate: false
+  xy: 396, 146
+  size: 26, 26
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+h_salad_crouton_4
+  rotate: false
+  xy: 159, 154
+  size: 20, 20
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+h_salad_cucumber_1
+  rotate: false
+  xy: 1834, 31
+  size: 57, 32
+  orig: 58, 33
+  offset: 1, 0
+  index: -1
+h_salad_cucumber_2
+  rotate: false
+  xy: 629, 172
+  size: 30, 24
+  orig: 32, 28
+  offset: 2, 1
+  index: -1
+h_salad_cucumber_3
+  rotate: false
+  xy: 2021, 102
+  size: 23, 26
+  orig: 24, 28
+  offset: 0, 1
+  index: -1
+h_salad_cucumber_4
+  rotate: false
+  xy: 826, 20
+  size: 40, 36
+  orig: 40, 37
+  offset: 0, 1
+  index: -1
+h_salad_cucumber_5
+  rotate: false
+  xy: 224, 20
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+h_salad_fork
+  rotate: false
+  xy: 1971, 128
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+h_salad_onion_1_back
+  rotate: false
+  xy: 256, 84
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+h_salad_onion_1_front
+  rotate: false
+  xy: 1655, 32
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+h_salad_onion_2
+  rotate: false
+  xy: 2, 20
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+h_salad_onion_3
+  rotate: false
+  xy: 46, 22
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+h_salad_plate
+  rotate: true
+  xy: 800, 199
+  size: 167, 122
+  orig: 168, 123
+  offset: 0, 1
+  index: -1
+h_salad_shadow
+  rotate: true
+  xy: 206, 179
+  size: 185, 179
+  orig: 185, 179
+  offset: 0, 0
+  index: -1
+h_salad_tomato_1
+  rotate: false
+  xy: 1494, 188
+  size: 25, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+h_salad_tomato_2
+  rotate: false
+  xy: 227, 86
+  size: 23, 18
+  orig: 24, 21
+  offset: 1, 2
+  index: -1
+h_salad_tomato_3
+  rotate: false
+  xy: 1349, 190
+  size: 23, 23
+  orig: 24, 24
+  offset: 1, 1
+  index: -1
+h_salad_tomato_4
+  rotate: false
+  xy: 1732, 86
+  size: 21, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+h_salad_tomato_5
+  rotate: false
+  xy: 548, 338
+  size: 24, 27
+  orig: 26, 28
+  offset: 1, 0
+  index: -1
+h_salad_tomato_6
+  rotate: false
+  xy: 899, 340
+  size: 22, 26
+  orig: 24, 27
+  offset: 1, 1
+  index: -1
+h_salad_tomato_7
+  rotate: false
+  xy: 800, 338
+  size: 21, 27
+  orig: 23, 28
+  offset: 1, 0
+  index: -1
+h_salad_tomato_8
+  rotate: false
+  xy: 654, 92
+  size: 25, 21
+  orig: 27, 22
+  offset: 1, 1
+  index: -1
+h_salad_tomato_9
+  rotate: false
+  xy: 649, 338
+  size: 23, 27
+  orig: 24, 28
+  offset: 0, 0
+  index: -1
+h_sandwich_bread_back
+  rotate: true
+  xy: 1893, 19
+  size: 107, 134
+  orig: 107, 134
+  offset: 0, 0
+  index: -1
+h_sandwich_bread_front
+  rotate: true
+  xy: 39, 56
+  size: 99, 133
+  orig: 99, 133
+  offset: 0, 0
+  index: -1
+h_sandwich_lettuce_1
+  rotate: 270
+  xy: 1943, 6
+  size: 76, 104
+  orig: 76, 104
+  offset: 0, 0
+  index: -1
+h_sandwich_lettuce_2
+  rotate: 270
+  xy: 270, 6
+  size: 85, 128
+  orig: 86, 130
+  offset: 0, 1
+  index: -1
+h_sandwich_lettuce_3
+  rotate: 270
+  xy: 1916, 17
+  size: 87, 129
+  orig: 88, 130
+  offset: 1, 1
+  index: -1
+h_sandwich_shadow
+  rotate: false
+  xy: 1204, 118
+  size: 143, 94
+  orig: 143, 94
+  offset: 0, 0
+  index: -1
+h_steak
+  rotate: false
+  xy: 1050, 94
+  size: 152, 119
+  orig: 152, 119
+  offset: 0, 0
+  index: -1
+h_steak_butter
+  rotate: false
+  xy: 1129, 24
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+h_steak_fries_1
+  rotate: false
+  xy: 548, 178
+  size: 65, 23
+  orig: 67, 23
+  offset: 1, 0
+  index: -1
+h_steak_fries_2
+  rotate: false
+  xy: 1029, 14
+  size: 75, 51
+  orig: 75, 51
+  offset: 0, 0
+  index: -1
+h_steak_fries_3
+  rotate: false
+  xy: 647, 19
+  size: 74, 37
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+h_steak_fries_4
+  rotate: false
+  xy: 78, 14
+  size: 58, 31
+  orig: 59, 32
+  offset: 0, 1
+  index: -1
+h_steak_fries_5
+  rotate: false
+  xy: 528, 78
+  size: 57, 14
+  orig: 59, 16
+  offset: 1, 1
+  index: -1
+h_steak_fries_6
+  rotate: false
+  xy: 725, 99
+  size: 75, 15
+  orig: 75, 16
+  offset: 0, 1
+  index: -1
+h_steak_fries_7
+  rotate: false
+  xy: 1894, 90
+  size: 47, 13
+  orig: 47, 15
+  offset: 0, 1
+  index: -1
+h_steak_leaves_1
+  rotate: false
+  xy: 443, 24
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+h_steak_leaves_2
+  rotate: false
+  xy: 1186, 41
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+h_steak_leaves_3
+  rotate: false
+  xy: 933, 43
+  size: 49, 67
+  orig: 49, 67
+  offset: 0, 0
+  index: -1
+h_steak_plate
+  rotate: true
+  xy: 548, 188
+  size: 177, 129
+  orig: 177, 129
+  offset: 0, 0
+  index: -1
+h_steak_salad_1
+  rotate: true
+  xy: 1523, 37
+  size: 64, 92
+  orig: 64, 92
+  offset: 0, 0
+  index: -1
+h_steak_salad_2
+  rotate: false
+  xy: 1291, 22
+  size: 74, 55
+  orig: 75, 57
+  offset: 0, 1
+  index: -1
+h_steak_shadow
+  rotate: false
+  xy: 2, 174
+  size: 202, 190
+  orig: 202, 190
+  offset: 0, 0
+  index: -1
+h_steak_stalks
+  rotate: false
+  xy: 984, 34
+  size: 43, 76
+  orig: 43, 76
+  offset: 0, 0
+  index: -1
+h_steak_tomato_1
+  rotate: false
+  xy: 1559, 18
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+h_steak_tomato_2
+  rotate: false
+  xy: 1614, 15
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+h_steak_tomato_3
+  rotate: false
+  xy: 2, 73
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+l_club
+  rotate: false
+  xy: 1863, 104
+  size: 106, 108
+  orig: 106, 108
+  offset: 0, 0
+  index: -1
+l_diamond
+  rotate: false
+  xy: 1759, 97
+  size: 102, 115
+  orig: 102, 115
+  offset: 0, 0
+  index: -1
+l_heart
+  rotate: false
+  xy: 1646, 106
+  size: 111, 106
+  orig: 111, 106
+  offset: 0, 0
+  index: -1
+l_spade
+  rotate: true
+  xy: 1525, 102
+  size: 110, 119
+  orig: 110, 119
+  offset: 0, 0
+  index: -1
+steam/steam_0
+  rotate: false
+  xy: 923, 214
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_1
+  rotate: false
+  xy: 1025, 214
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_11
+  rotate: false
+  xy: 1127, 214
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_12
+  rotate: false
+  xy: 1229, 214
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_13
+  rotate: false
+  xy: 1331, 214
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_14
+  rotate: false
+  xy: 1433, 214
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_15
+  rotate: false
+  xy: 1433, 214
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_2
+  rotate: false
+  xy: 1535, 214
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_3
+  rotate: false
+  xy: 1637, 214
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_4
+  rotate: false
+  xy: 1739, 214
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_5
+  rotate: false
+  xy: 1739, 214
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_6
+  rotate: false
+  xy: 1841, 214
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_7
+  rotate: false
+  xy: 1943, 214
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_8
+  rotate: true
+  xy: 659, 114
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_9
+  rotate: true
+  xy: 898, 112
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+steam/steam_10
+  rotate: true
+  xy: 898, 112
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+

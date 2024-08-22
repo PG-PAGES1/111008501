@@ -1,0 +1,993 @@
+
+sym_disappear.png
+size: 936,936
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/explode_01_unpack/l_diamond_anim_00
+  rotate: false
+  xy: 296, 235
+  size: 98, 110
+  orig: 350, 350
+  offset: 127, 118
+  index: -1
+images/explode_01_unpack/l_diamond_anim_01
+  rotate: false
+  xy: 296, 235
+  size: 98, 110
+  orig: 350, 350
+  offset: 127, 118
+  index: -1
+images/explode_01_unpack/l_diamond_anim_02
+  rotate: true
+  xy: 822, 481
+  size: 98, 109
+  orig: 350, 350
+  offset: 127, 118
+  index: -1
+images/explode_01_unpack/l_diamond_anim_03
+  rotate: true
+  xy: 550, 73
+  size: 65, 109
+  orig: 350, 350
+  offset: 127, 118
+  index: -1
+images/explode_01_unpack/l_diamond_anim_04
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_01_unpack/l_diamond_anim_05
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_01_unpack/l_diamond_anim_06
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_02_unpack/l_club_anim_04
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_02_unpack/l_club_anim_05
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_02_unpack/l_club_anim_06
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_03_unpack/l_heart_anim_04
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_03_unpack/l_heart_anim_05
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_03_unpack/l_heart_anim_06
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_04_unpack/l_spade_anim_05
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_04_unpack/l_spade_anim_06
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_05_unpack/h_juice_anim_05
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_05_unpack/h_juice_anim_06
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_06_unpack/h_coffee_anim_06
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_07_unpack/h_sandwich_anim_06
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_08_unpack/h_salad_anim_06
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_09_unpack/h_burger_anim_06
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_10_unpack/h_steak_anim_06
+  rotate: false
+  xy: 933, 578
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/explode_02_unpack/l_club_anim_00
+  rotate: false
+  xy: 642, 158
+  size: 101, 104
+  orig: 350, 350
+  offset: 125, 121
+  index: -1
+images/explode_02_unpack/l_club_anim_01
+  rotate: false
+  xy: 661, 52
+  size: 101, 104
+  orig: 350, 350
+  offset: 125, 121
+  index: -1
+images/explode_02_unpack/l_club_anim_02
+  rotate: false
+  xy: 745, 176
+  size: 101, 104
+  orig: 350, 350
+  offset: 125, 121
+  index: -1
+images/explode_02_unpack/l_club_anim_03
+  rotate: false
+  xy: 764, 70
+  size: 85, 104
+  orig: 350, 350
+  offset: 125, 121
+  index: -1
+images/explode_03_unpack/l_heart_anim_00
+  rotate: true
+  xy: 831, 689
+  size: 106, 103
+  orig: 350, 350
+  offset: 122, 118
+  index: -1
+images/explode_03_unpack/l_heart_anim_01
+  rotate: true
+  xy: 831, 581
+  size: 106, 103
+  orig: 350, 350
+  offset: 122, 118
+  index: -1
+images/explode_03_unpack/l_heart_anim_02
+  rotate: false
+  xy: 686, 296
+  size: 106, 102
+  orig: 350, 350
+  offset: 122, 118
+  index: -1
+images/explode_03_unpack/l_heart_anim_03
+  rotate: false
+  xy: 848, 178
+  size: 72, 102
+  orig: 350, 350
+  offset: 122, 118
+  index: -1
+images/explode_04_unpack/l_spade_anim_00
+  rotate: true
+  xy: 179, 239
+  size: 106, 115
+  orig: 350, 350
+  offset: 122, 116
+  index: -1
+images/explode_04_unpack/l_spade_anim_01
+  rotate: false
+  xy: 686, 400
+  size: 106, 115
+  orig: 350, 350
+  offset: 122, 116
+  index: -1
+images/explode_04_unpack/l_spade_anim_02
+  rotate: true
+  xy: 794, 282
+  size: 106, 113
+  orig: 350, 350
+  offset: 122, 116
+  index: -1
+images/explode_04_unpack/l_spade_anim_03
+  rotate: false
+  xy: 550, 140
+  size: 90, 113
+  orig: 350, 350
+  offset: 122, 116
+  index: -1
+images/explode_04_unpack/l_spade_anim_04
+  rotate: true
+  xy: 929, 426
+  size: 8, 5
+  orig: 350, 350
+  offset: 187, 116
+  index: -1
+images/explode_05_unpack/h_juice_anim_00
+  rotate: true
+  xy: 421, 2
+  size: 95, 119
+  orig: 350, 350
+  offset: 131, 108
+  index: -1
+images/explode_05_unpack/h_juice_anim_01
+  rotate: true
+  xy: 701, 517
+  size: 90, 119
+  orig: 350, 350
+  offset: 131, 108
+  index: -1
+images/explode_05_unpack/h_juice_anim_02
+  rotate: true
+  xy: 292, 3
+  size: 88, 119
+  orig: 350, 350
+  offset: 133, 108
+  index: -1
+images/explode_05_unpack/h_juice_anim_03
+  rotate: false
+  xy: 544, 255
+  size: 79, 119
+  orig: 350, 350
+  offset: 133, 108
+  index: -1
+images/explode_05_unpack/h_juice_anim_04
+  rotate: false
+  xy: 2, 14
+  size: 38, 20
+  orig: 350, 350
+  offset: 174, 108
+  index: -1
+images/explode_06_unpack/h_coffee_anim_00
+  rotate: true
+  xy: 292, 93
+  size: 140, 127
+  orig: 350, 350
+  offset: 106, 102
+  index: -1
+images/explode_06_unpack/h_coffee_anim_01
+  rotate: true
+  xy: 421, 99
+  size: 140, 127
+  orig: 350, 350
+  offset: 106, 102
+  index: -1
+images/explode_06_unpack/h_coffee_anim_02
+  rotate: true
+  xy: 567, 646
+  size: 140, 127
+  orig: 350, 350
+  offset: 106, 102
+  index: -1
+images/explode_06_unpack/h_coffee_anim_03
+  rotate: false
+  xy: 559, 517
+  size: 140, 127
+  orig: 350, 350
+  offset: 106, 102
+  index: -1
+images/explode_06_unpack/h_coffee_anim_04
+  rotate: false
+  xy: 794, 436
+  size: 140, 43
+  orig: 350, 350
+  offset: 106, 102
+  index: -1
+images/explode_06_unpack/h_coffee_anim_05
+  rotate: false
+  xy: 668, 352
+  size: 16, 26
+  orig: 350, 350
+  offset: 106, 114
+  index: -1
+images/explode_07_unpack/h_sandwich_anim_00
+  rotate: true
+  xy: 772, 797
+  size: 137, 151
+  orig: 350, 350
+  offset: 102, 95
+  index: -1
+images/explode_07_unpack/h_sandwich_anim_01
+  rotate: true
+  xy: 396, 241
+  size: 133, 146
+  orig: 350, 350
+  offset: 102, 95
+  index: -1
+images/explode_07_unpack/h_sandwich_anim_02
+  rotate: false
+  xy: 551, 380
+  size: 133, 135
+  orig: 350, 350
+  offset: 102, 95
+  index: -1
+images/explode_07_unpack/h_sandwich_anim_03
+  rotate: false
+  xy: 696, 659
+  size: 133, 135
+  orig: 350, 350
+  offset: 102, 95
+  index: -1
+images/explode_07_unpack/h_sandwich_anim_04
+  rotate: false
+  xy: 794, 390
+  size: 133, 44
+  orig: 350, 350
+  offset: 102, 95
+  index: -1
+images/explode_07_unpack/h_sandwich_anim_05
+  rotate: false
+  xy: 794, 484
+  size: 21, 31
+  orig: 350, 350
+  offset: 102, 108
+  index: -1
+images/explode_08_unpack/h_salad_anim_00
+  rotate: false
+  xy: 197, 596
+  size: 175, 170
+  orig: 350, 350
+  offset: 88, 86
+  index: -1
+images/explode_08_unpack/h_salad_anim_01
+  rotate: false
+  xy: 2, 231
+  size: 175, 170
+  orig: 350, 350
+  offset: 88, 86
+  index: -1
+images/explode_08_unpack/h_salad_anim_02
+  rotate: false
+  xy: 197, 450
+  size: 175, 144
+  orig: 350, 350
+  offset: 88, 86
+  index: -1
+images/explode_08_unpack/h_salad_anim_03
+  rotate: false
+  xy: 374, 376
+  size: 175, 144
+  orig: 350, 350
+  offset: 88, 86
+  index: -1
+images/explode_08_unpack/h_salad_anim_04
+  rotate: false
+  xy: 187, 347
+  size: 175, 101
+  orig: 350, 350
+  offset: 88, 86
+  index: -1
+images/explode_08_unpack/h_salad_anim_05
+  rotate: false
+  xy: 851, 92
+  size: 36, 84
+  orig: 350, 350
+  offset: 88, 103
+  index: -1
+images/explode_09_unpack/h_burger_anim_00
+  rotate: false
+  xy: 197, 768
+  size: 183, 166
+  orig: 350, 350
+  offset: 84, 90
+  index: -1
+images/explode_09_unpack/h_burger_anim_01
+  rotate: false
+  xy: 2, 403
+  size: 183, 166
+  orig: 350, 350
+  offset: 84, 90
+  index: -1
+images/explode_09_unpack/h_burger_anim_02
+  rotate: true
+  xy: 150, 46
+  size: 183, 140
+  orig: 350, 350
+  offset: 84, 90
+  index: -1
+images/explode_09_unpack/h_burger_anim_03
+  rotate: false
+  xy: 382, 646
+  size: 183, 140
+  orig: 350, 350
+  offset: 84, 90
+  index: -1
+images/explode_09_unpack/h_burger_anim_04
+  rotate: false
+  xy: 374, 522
+  size: 183, 122
+  orig: 350, 350
+  offset: 84, 90
+  index: -1
+images/explode_09_unpack/h_burger_anim_05
+  rotate: false
+  xy: 625, 264
+  size: 41, 114
+  orig: 350, 350
+  offset: 84, 98
+  index: -1
+images/explode_10_unpack/h_steak_anim_00
+  rotate: false
+  xy: 2, 753
+  size: 193, 181
+  orig: 350, 350
+  offset: 78, 84
+  index: -1
+images/explode_10_unpack/h_steak_anim_01
+  rotate: false
+  xy: 2, 571
+  size: 193, 180
+  orig: 350, 350
+  offset: 78, 84
+  index: -1
+images/explode_10_unpack/h_steak_anim_02
+  rotate: false
+  xy: 382, 788
+  size: 193, 146
+  orig: 350, 350
+  offset: 78, 84
+  index: -1
+images/explode_10_unpack/h_steak_anim_03
+  rotate: true
+  xy: 2, 36
+  size: 193, 146
+  orig: 350, 350
+  offset: 78, 84
+  index: -1
+images/explode_10_unpack/h_steak_anim_04
+  rotate: false
+  xy: 577, 796
+  size: 193, 138
+  orig: 350, 350
+  offset: 78, 84
+  index: -1
+images/explode_10_unpack/h_steak_anim_05
+  rotate: true
+  xy: 701, 609
+  size: 48, 128
+  orig: 350, 350
+  offset: 78, 94
+  index: -1
+
+
+sym_disappear1.jpg
+size: 1047,1047
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/frame_light_01_unpack/l_diamond_02_00
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_01_unpack/l_diamond_02_04
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_01_unpack/l_diamond_02_05
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_01_unpack/l_diamond_02_06
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_02_unpack/l_club_02_00
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_02_unpack/l_club_02_04
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_02_unpack/l_club_02_05
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_02_unpack/l_club_02_06
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_03_unpack/l_heart_02_00
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_03_unpack/l_heart_02_04
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_03_unpack/l_heart_02_05
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_03_unpack/l_heart_02_06
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_04_unpack/l_spade_02_00
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_04_unpack/l_spade_02_05
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_04_unpack/l_spade_02_06
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_05_unpack/h_juice_glow_02_00
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_05_unpack/h_juice_glow_02_05
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_05_unpack/h_juice_glow_02_06
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_06_unpack/h_coffee_glow_02_00
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_06_unpack/h_coffee_glow_02_06
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_07_unpack/h_sandwich_glow_02_00
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_07_unpack/h_sandwich_glow_02_06
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_08_unpack/h_salad_glow_02_00
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_09_unpack/h_burger_glow_02_00
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_10_unpack/h_steak_glow_02_00
+  rotate: false
+  xy: 386, 2
+  size: 3, 3
+  orig: 450, 450
+  offset: 0, 447
+  index: -1
+images/frame_light_01_unpack/l_diamond_02_01
+  rotate: true
+  xy: 486, 297
+  size: 74, 90
+  orig: 450, 450
+  offset: 199, 213
+  index: -1
+images/frame_light_01_unpack/l_diamond_02_02
+  rotate: false
+  xy: 592, 357
+  size: 104, 102
+  orig: 450, 450
+  offset: 169, 213
+  index: -1
+images/frame_light_01_unpack/l_diamond_02_03
+  rotate: false
+  xy: 390, 137
+  size: 108, 158
+  orig: 450, 450
+  offset: 169, 158
+  index: -1
+images/frame_light_02_unpack/l_club_02_01
+  rotate: false
+  xy: 304, 197
+  size: 84, 98
+  orig: 450, 450
+  offset: 196, 212
+  index: -1
+images/frame_light_02_unpack/l_club_02_02
+  rotate: true
+  xy: 386, 739
+  size: 114, 104
+  orig: 450, 450
+  offset: 166, 212
+  index: -1
+images/frame_light_02_unpack/l_club_02_03
+  rotate: false
+  xy: 574, 577
+  size: 122, 166
+  orig: 450, 450
+  offset: 165, 149
+  index: -1
+images/frame_light_03_unpack/l_heart_02_01
+  rotate: true
+  xy: 592, 461
+  size: 114, 104
+  orig: 450, 450
+  offset: 199, 204
+  index: -1
+images/frame_light_03_unpack/l_heart_02_02
+  rotate: true
+  xy: 486, 373
+  size: 174, 104
+  orig: 450, 450
+  offset: 139, 204
+  index: -1
+images/frame_light_03_unpack/l_heart_02_03
+  rotate: false
+  xy: 876, 543
+  size: 142, 150
+  orig: 450, 450
+  offset: 138, 158
+  index: -1
+images/frame_light_04_unpack/l_spade_02_01
+  rotate: false
+  xy: 908, 169
+  size: 94, 106
+  orig: 450, 450
+  offset: 190, 211
+  index: -1
+images/frame_light_04_unpack/l_spade_02_02
+  rotate: false
+  xy: 690, 159
+  size: 130, 108
+  orig: 450, 450
+  offset: 154, 207
+  index: -1
+images/frame_light_04_unpack/l_spade_02_03
+  rotate: true
+  xy: 698, 269
+  size: 134, 168
+  orig: 450, 450
+  offset: 155, 148
+  index: -1
+images/frame_light_04_unpack/l_spade_02_04
+  rotate: true
+  xy: 870, 543
+  size: 6, 4
+  orig: 450, 450
+  offset: 240, 168
+  index: -1
+images/frame_light_05_unpack/h_juice_glow_02_01
+  rotate: false
+  xy: 578, 249
+  size: 110, 106
+  orig: 450, 450
+  offset: 194, 210
+  index: -1
+images/frame_light_05_unpack/h_juice_glow_02_02
+  rotate: true
+  xy: 906, 695
+  size: 152, 106
+  orig: 450, 450
+  offset: 152, 210
+  index: -1
+images/frame_light_05_unpack/h_juice_glow_02_03
+  rotate: true
+  xy: 698, 405
+  size: 144, 170
+  orig: 450, 450
+  offset: 152, 146
+  index: -1
+images/frame_light_05_unpack/h_juice_glow_02_04
+  rotate: true
+  xy: 576, 145
+  size: 102, 88
+  orig: 450, 450
+  offset: 188, 129
+  index: -1
+images/frame_light_06_unpack/h_coffee_glow_02_01
+  rotate: true
+  xy: 522, 5
+  size: 138, 114
+  orig: 450, 450
+  offset: 191, 204
+  index: -1
+images/frame_light_06_unpack/h_coffee_glow_02_02
+  rotate: true
+  xy: 304, 499
+  size: 200, 116
+  orig: 450, 450
+  offset: 129, 204
+  index: -1
+images/frame_light_06_unpack/h_coffee_glow_02_03
+  rotate: false
+  xy: 2, 3
+  size: 196, 180
+  orig: 450, 450
+  offset: 130, 141
+  index: -1
+images/frame_light_06_unpack/h_coffee_glow_02_04
+  rotate: false
+  xy: 700, 699
+  size: 204, 148
+  orig: 450, 450
+  offset: 122, 124
+  index: -1
+images/frame_light_06_unpack/h_coffee_glow_02_05
+  rotate: false
+  xy: 822, 143
+  size: 84, 124
+  orig: 450, 450
+  offset: 122, 147
+  index: -1
+images/frame_light_07_unpack/h_sandwich_glow_02_01
+  rotate: false
+  xy: 386, 7
+  size: 134, 128
+  orig: 450, 450
+  offset: 186, 204
+  index: -1
+images/frame_light_07_unpack/h_sandwich_glow_02_02
+  rotate: false
+  xy: 868, 277
+  size: 160, 118
+  orig: 450, 450
+  offset: 160, 204
+  index: -1
+images/frame_light_07_unpack/h_sandwich_glow_02_03
+  rotate: true
+  xy: 698, 551
+  size: 146, 176
+  orig: 450, 450
+  offset: 159, 146
+  index: -1
+images/frame_light_07_unpack/h_sandwich_glow_02_04
+  rotate: true
+  xy: 422, 549
+  size: 188, 150
+  orig: 450, 450
+  offset: 117, 118
+  index: -1
+images/frame_light_07_unpack/h_sandwich_glow_02_05
+  rotate: false
+  xy: 784, 53
+  size: 90, 88
+  orig: 450, 450
+  offset: 117, 140
+  index: -1
+images/frame_light_08_unpack/h_salad_glow_02_01
+  rotate: true
+  xy: 244, 701
+  size: 144, 140
+  orig: 450, 450
+  offset: 187, 204
+  index: -1
+images/frame_light_08_unpack/h_salad_glow_02_02
+  rotate: false
+  xy: 492, 745
+  size: 206, 118
+  orig: 450, 450
+  offset: 125, 204
+  index: -1
+images/frame_light_08_unpack/h_salad_glow_02_03
+  rotate: true
+  xy: 2, 185
+  size: 218, 180
+  orig: 450, 450
+  offset: 126, 141
+  index: -1
+images/frame_light_08_unpack/h_salad_glow_02_04
+  rotate: false
+  xy: 252, 855
+  size: 238, 190
+  orig: 450, 450
+  offset: 106, 117
+  index: -1
+images/frame_light_08_unpack/h_salad_glow_02_05
+  rotate: true
+  xy: 304, 297
+  size: 200, 180
+  orig: 450, 450
+  offset: 106, 127
+  index: -1
+images/frame_light_08_unpack/h_salad_glow_02_06
+  rotate: true
+  xy: 876, 55
+  size: 86, 82
+  orig: 450, 450
+  offset: 220, 225
+  index: -1
+images/frame_light_09_unpack/h_burger_glow_02_01
+  rotate: false
+  xy: 638, 3
+  size: 144, 140
+  orig: 450, 450
+  offset: 187, 204
+  index: -1
+images/frame_light_09_unpack/h_burger_glow_02_02
+  rotate: true
+  xy: 184, 197
+  size: 218, 118
+  orig: 450, 450
+  offset: 113, 204
+  index: -1
+images/frame_light_09_unpack/h_burger_glow_02_03
+  rotate: false
+  xy: 492, 865
+  size: 234, 180
+  orig: 450, 450
+  offset: 113, 141
+  index: -1
+images/frame_light_09_unpack/h_burger_glow_02_04
+  rotate: false
+  xy: 2, 655
+  size: 240, 190
+  orig: 450, 450
+  offset: 107, 117
+  index: -1
+images/frame_light_09_unpack/h_burger_glow_02_05
+  rotate: true
+  xy: 200, 3
+  size: 192, 184
+  orig: 450, 450
+  offset: 108, 123
+  index: -1
+images/frame_light_09_unpack/h_burger_glow_02_06
+  rotate: true
+  xy: 500, 145
+  size: 150, 74
+  orig: 450, 450
+  offset: 150, 233
+  index: -1
+images/frame_light_10_unpack/h_steak_glow_02_01
+  rotate: false
+  xy: 870, 397
+  size: 152, 144
+  orig: 450, 450
+  offset: 185, 204
+  index: -1
+images/frame_light_10_unpack/h_steak_glow_02_02
+  rotate: true
+  xy: 184, 417
+  size: 236, 118
+  orig: 450, 450
+  offset: 101, 204
+  index: -1
+images/frame_light_10_unpack/h_steak_glow_02_03
+  rotate: true
+  xy: 2, 405
+  size: 248, 180
+  orig: 450, 450
+  offset: 101, 141
+  index: -1
+images/frame_light_10_unpack/h_steak_glow_02_04
+  rotate: false
+  xy: 2, 847
+  size: 248, 198
+  orig: 450, 450
+  offset: 101, 117
+  index: -1
+images/frame_light_10_unpack/h_steak_glow_02_05
+  rotate: false
+  xy: 728, 849
+  size: 212, 196
+  orig: 450, 450
+  offset: 100, 119
+  index: -1
+images/frame_light_10_unpack/h_steak_glow_02_06
+  rotate: true
+  xy: 942, 857
+  size: 188, 94
+  orig: 450, 450
+  offset: 124, 220
+  index: -1
